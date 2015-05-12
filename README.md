@@ -1,6 +1,10 @@
 # EE-CS120B-Project---Byte-iT
 Similar Frogger Type Game with NES Controller
 
+Youtube Video Link:
+
+https://youtu.be/nwX5HKSbFQM
+
 General
 
 Our game is named Byte It. It will set on a grid of 7-by-13. The player will be initialized to the center of the screen. And when the game begins, obstacles will go across horizontally and vertically. The player must avoid these obstacles by moving up, down, left, or right. The game will end when the player is hit by one of the obstacles. The player will gain points by picking up apples and diamonds on the grid to gain points. Both the apple, diamond, and obstacles will appear as time progresses. Once enough rewards (apple and diamond) are collected, the player may choose to consume the power-up by pressing A, then he will be temporarily be immune to all obstacles. The score will also be displayed using 2 7-seg numeric display to show the score the player has accumulated thus far.
@@ -26,5 +30,3 @@ Schematic:
 
 
 ![alt tag](http://i.imgur.com/4rCz0sE.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nwX5HKSbFQM" frameborder="0" allowfullscreen></iframe>
